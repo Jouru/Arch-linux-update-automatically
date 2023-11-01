@@ -2,7 +2,6 @@
 Description=Update the archlinux system automaticlly
 
 [Timer]
-OnBootSec=15m
 OnCalendar=*-*-15
 OnCalendar=*-*-30
 Persistent=true

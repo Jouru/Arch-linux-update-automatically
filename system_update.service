@@ -1,0 +1,9 @@
+[Unit]
+Description=Update the archlinux system automaticlly
+
+[Service]
+Type=simple
+ExecStart=/home/abner/.scripts/system-update.sh
+
+[Install]
+WantedBy=default.target

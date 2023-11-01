@@ -1,6 +1,6 @@
 # Linux-Auto-update
 
-System_update is a service which update linux automatically twice a month using systemd timer. This script by default update Archlinux system, but can update other linux system that use systemd as init system modifyng the update command in the update script.
+Linux-Auto-update is a service which update linux automatically twice a month using systemd timer. This script by default update Archlinux system, but can update other linux system that use systemd as init system modifyng the update command in the update script.
 
 ## Dependencies
 
